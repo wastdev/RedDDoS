@@ -1,4 +1,4 @@
-# 🚀 RedDDoS v1.2
+# 🚀 RedDDoS v1 Yakında vs v1.1 Gelecektir.
 
 Bu proje **Termux**, **Pydroid 3 (Android)** ve **Windows/Linux** sistemlerinde sorunsuz çalışacak şekilde optimize edilmiştir.
 
