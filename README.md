@@ -112,7 +112,7 @@ python reddos.py
 
 ```bash
 git init
-git remote add origin https://github.com/KENDI-KULLANICI-ADIN/reddos.git
+git remote add origin https://github.com/wastdev/reddos.git
 git add .
 git commit -m "İlk sürüm"
 git push -u origin master
