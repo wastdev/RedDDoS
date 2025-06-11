@@ -73,7 +73,7 @@ Kurulum (ortama göre aşağıda belirtilmiştir):
 
 **Alternatif olarak GitHub üzerinden klonlamak istersen:**
 ```bash
-git clone https://github.com/wastdev/reddos.git
+git clone https://github.com/wastdev/RedDDoS.git
 cd reddos
 python reddos.py
 ```
@@ -112,7 +112,7 @@ python reddos.py
 
 ```bash
 git init
-git remote add origin https://github.com/wastdev/reddos.git
+git remote add origin https://github.com/wastdev/RedDDoS.git
 git add .
 git commit -m "İlk sürüm"
 git push -u origin master
